@@ -1,6 +1,6 @@
-print("Collatz Problemi")
+print("Collatz Series Finder")
 
-mogrnu = input("Deneme hangi sayıda bitmeli:  ")
+mogrnu = input("The largest number to be tested:  ")
 
 
 bitissayisi = int(mogrnu)
