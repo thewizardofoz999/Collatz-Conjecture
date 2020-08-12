@@ -35,5 +35,15 @@ while unum < endnumber:
     else :
         i = 0
 
+itest = 0
+n = recnum
+while n != 1:
+    if (n % 2 == 0):
+        n = n/2
+        itest = itest+1
+    else:
+        n = (3*n)+1
+        itest = itest + 1
+
 print(recnum)
-print(reclenght)
+print(itest)
