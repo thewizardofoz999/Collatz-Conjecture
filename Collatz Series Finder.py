@@ -15,7 +15,6 @@ while unum < endnumber:
     unum = unum + 1
     num = unum
     sit = num % 2
-    print(num)
     while (num != 1) and (num != 0):
 
         while (sit == 1) and (num != 0):
