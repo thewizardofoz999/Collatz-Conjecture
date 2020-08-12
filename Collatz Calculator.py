@@ -1,4 +1,4 @@
-n = int(input("SAYIYI GİRİNİZ: "))
+n = int(input("TYPE THE NUMBER IN: "))
 print(n)
 i = 0
 while n != 1:
